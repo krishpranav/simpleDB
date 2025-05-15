@@ -1,0 +1,8 @@
+{
+  "name": "simpleDB",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/krishpranav/simpleDB",
+  "author": "Krisna Pranav <68631244+krishpranav@users.noreply.github.com>",
+  "license": "MIT"
+}
